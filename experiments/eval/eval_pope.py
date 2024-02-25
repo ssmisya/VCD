@@ -3,9 +3,13 @@ import json
 import argparse
 from tqdm import tqdm
 
+from language_dict import language_dict
+
 parser = argparse.ArgumentParser()
 parser.add_argument("--gt_files", type=str, default="data/POPE/coco_pope_popular.json")
 parser.add_argument("--gen_files", type=str, default="answer_files_POPE/llava15_coco_pope_popular_answers_no_cd.jsonl")
+parser.add_argument("--language", type=str, default="en")
+
 args = parser.parse_args()
 
 # open ground truth answers
@@ -36,14 +40,16 @@ for index, line in enumerate(gt_files):
     gt_answer = gt_answer.strip()
     gen_answer = gen_answer.strip()
     # pos = 'yes', neg = 'no'
-    if gt_answer == 'yes':
-        if 'yes' in gen_answer:
+    pos = language_dict[args.language]['yes']
+    neg = language_dict[args.language]['no']
+    if pos in gt_answer or "yes" in gt_answer:
+        if pos in gen_answer:
             true_pos += 1
             yes_answers += 1
         else:
             false_neg += 1
-    elif gt_answer == 'no':
-        if 'no' in gen_answer:
+    elif neg in gt_answer or "no" in gt_answer:
+        if neg in gen_answer:
             true_neg += 1
         else:
             yes_answers += 1

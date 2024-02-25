@@ -1,16 +1,17 @@
 seed=${1:-55}
 dataset_name=${2:-"coco"}
 type=${3:-"random"}
-model_path=${4:-"./checkpoints/llava-v1.5-7b"}
+model_path=${4:-"/mnt/petrelfs/share_data/quxiaoye/VCD_file/llava-v1.5-7b"}
 cd_alpha=${5:-1}
 cd_beta=${6:-0.2}
 noise_step=${7:-500}
 if [[ $dataset_name == 'coco' || $dataset_name == 'aokvqa' ]]; then
-  image_folder=./data/coco/val2014
+  image_folder=/mnt/petrelfs/share_data/quxiaoye/VCD_file/val2014
 else
   image_folder=./data/gqa/images
 fi
-
+code_base=/mnt/petrelfs/songmingyang/code/VCD/experiments
+cd $code_base
 python ./eval/object_hallucination_vqa_llava.py \
 --model-path ${model_path} \
 --question-file ./data/POPE/${dataset_name}/${dataset_name}_pope_${type}.json \

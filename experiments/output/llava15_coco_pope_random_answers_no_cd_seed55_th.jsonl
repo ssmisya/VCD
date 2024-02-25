@@ -1,0 +1,67 @@
+{"question_id": 1, "prompt": "มีบอร์ดสโนว์บอร์ดในรูปรึเปล่า?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 2, "prompt": "มีรถในภาพไหม?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 3, "prompt": "มีคนในรูปหรือไม่?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 4, "prompt": "มีแซนด์วิชในรูปภาพไหม?", "text": "ปวด / ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 5, "prompt": "มีสกีในรูปภาพหรือไม่?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 6, "prompt": "มีโซฟาในภาพหรือไม่?", "text": "บ่อย", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 7, "prompt": "มีรถบรรทุกในภาพไหม?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 8, "prompt": "มีพิซซ่าในรูปภาพไหม?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 9, "prompt": "มีคนอยู่ในภาพหรือไม่?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 10, "prompt": "มีอ่างล้างในรูปภาพหรือไม่คะ?", "text": "มีอ่างล้างในรูปภาพ", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 11, "prompt": "มีร่มอยู่ในรูปภาพหรือไม่?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 12, "prompt": "มีโทรศัพท์มือถือในภาพไหม?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 13, "prompt": "มีคนในภาพหรือไม่?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 14, "prompt": "มีแกะในรูปหรือไม่?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 15, "prompt": "มีจักรยานในภาพหรือไม่?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 16, "prompt": "มีบรอกโคลีในภาพหรือไม่?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 17, "prompt": "มีรถยนต์ในภาพหรือไม่?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 18, "prompt": "มี Rocket ลูกยิงในภาพมั้ย?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 19, "prompt": "มีคนอยู่ในรูปภาพไหม?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 20, "prompt": "มีตุ๊กตาหมีในรูปภาพไหม?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 21, "prompt": "มีต้นไม้ปลูกในภาพหรือไม่?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 22, "prompt": "มีกลีบข้าวมันลายในรูปภาพไหม?", "text": "ตรวจสอบคำตอบของคุณก่อนที่จะตอบคลังกิจกรรมของคุณในคำถึงที่ขัดสรร", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 23, "prompt": "มีรถในรูปภาพหรือไม่?", "text": "เป็นเหล่า", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 24, "prompt": "มีส้มในภาพไหม?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 25, "prompt": "ในรูปมีไฟสัญญาณจราจรไหม?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 26, "prompt": "มีรถไฟในรูปภาพหรือไม่?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 27, "prompt": "มีคนในรูปภาพหรือไม่?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 28, "prompt": "มีบอร์ดเซิร์ฟในรูปภาพหรือไม่?", "text": "ประเเด็คด้วยการตรวจสอบคำตอบก่อนเรียบเรียงในใบคิดเชิงของคุณจากที่ผpsonทำนายให้แน่ใจว่าการตรวจสอบใriterบ่อย หรือไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 29, "prompt": "มีรถในภาพหรือไม่?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 30, "prompt": "มีเกาะในรูปไหม?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 31, "prompt": "มีหมาอยู่ในรูปภาพไหมคะ?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 32, "prompt": "มีเครื่องปิ้งขนมปังในภาพไหม?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 33, "prompt": "มีโต๊ะอาหารในภาพไหม?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 34, "prompt": "มีลูกกีฬาอยู่ในภาพหรือไม่?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 35, "prompt": "มีเตียงอยู่ในภาพไหม?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 36, "prompt": "มีหนังสือในภาพไหมคะ?", "text": "มีหนังสือในภาพไหมคะ? ใช่ (ความตอบคำสั่งของคุณ); ไม่ (ข้อความว่าไม่มีหนังสือในภาพ)", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 37, "prompt": "มีคนอยู่ในรูปหรือไม่?", "text": "คุณมีคำตอบของคุณ", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 38, "prompt": "มีไฟจราจรในภาพหรือไม่?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 39, "prompt": "มีช้อนในภาพหรือไม่?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 40, "prompt": "มีนกในภาพไหม?", "text": "ใช่, ข้างล่าง‌ช่วยประเมินคำตอบของคุณ (ไม่) และช่วย}}(\\_SP QUESTION)", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 41, "prompt": "มีทัพพีในภาพหรือไม่?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 42, "prompt": "มีรถบรรทุกในภาพไหม?", "text": "імов, это пара губах?", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 43, "prompt": "มีทีวีในภาพไหม?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 44, "prompt": "มีชามในภาพหรือไม่?", "text": "ใช่, มีชามองค์ประดับถึง responsable (click on render to see why)", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 45, "prompt": "มีโทสเตอร์อยู่ในภาพหรือไม่?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 46, "prompt": "มีวัวในรูปภาพหรือไม่?", "text": "ไม่มีวัวในรูปภาพ", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 47, "prompt": "มีไมโครเวฟในภาพไหม?", "text": "ไมโครเวฟในภาพไหม? การให้แน่ใจว่าไมโครเวฟของคุณไม่ได้กับความเป็นไม่พร้อมในสง่างด้านทะละคุณไม่สามารถวางใจได้ ในปัจจุบันว่าคุณต้องใช้การปรับการกิจกรรม โดยปรับการกิจกรรมไปที่มีไมโครเวฟไปต่อไป", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 48, "prompt": "มีโน้ตบุ๊คในรูปภาพหรือไม่?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 49, "prompt": "มีกระเป๋าเป้ในรูปหรือไม่?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 50, "prompt": "มีโทรศัพท์มือถือในภาพไหม?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 51, "prompt": "มีคนในรูปภาพหรือไม่?", "text": "คน (Featured)", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 52, "prompt": "มีโซฟาในรูปไหมคะ?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 53, "prompt": "มีสกีในภาพนั้นหรือไม่?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 54, "prompt": "มี Rocket ลูกเสือในภาพไหมครับ?", "text": "ไม่มี Rocket ลูกเสือในภาพ", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 55, "prompt": "มีนกในรูปป่าวคะ?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 56, "prompt": "ในภาพมีที่ดับเพลิงไหม?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 57, "prompt": "มีคนในภาพหรือไม่?", "text": "มีคนในภาพ", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 58, "prompt": "มีเตียงในภาพมั้ยคะ?", "text": "ใช่, มีเตียงในภาพ.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 59, "prompt": "มีเรือในรูปภาพหรือไม่?", "text": "มีเรือในรูปภาพ", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 60, "prompt": "มีโต๊ะนั่งในรูปภาพไหม?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 61, "prompt": "มีคนอยู่ในภาพไหมคะ?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 62, "prompt": "มีหมีในรูปภาพไหม?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 63, "prompt": "มีส้มในรูปไหม?", "text": "บางๆ อยู่ในรูปแบบ NORMAL 3.1.1", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 64, "prompt": "มีวัวอยู่ในภาพหรือไม่?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 65, "prompt": "มีขวดอยู่ในภาพไหม?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 66, "prompt": "มีเตียงในภาพหรือไม่?", "text": "ใช่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 67, "prompt": "มีกระเป๋าเป้ในภาพไหม?", "text": "ไม่", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000353180.jpg", "metadata": {}}

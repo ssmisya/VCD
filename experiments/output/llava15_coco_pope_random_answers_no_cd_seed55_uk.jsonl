@@ -1,0 +1,154 @@
+{"question_id": 1, "prompt": "Чи є сноуборд на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 2, "prompt": "Чи є автомобіль на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 3, "prompt": "Чи є людина на зображенні?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 4, "prompt": "Чи є сендвіч на зображенні?", "text": "Так, він має сендвіч на своїх руках.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 5, "prompt": "Чи є лижі на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 6, "prompt": "Чи є диван на зображенні?", "text": "Так.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 7, "prompt": "Чи є в картинці вантажівка?", "text": "Так, Суспільство", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 8, "prompt": "Чи є піца на зображенні?", "text": "Немає піци на зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 9, "prompt": "Чи є людина на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 10, "prompt": "Чи є у образі раковина?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 11, "prompt": "Чи є парасолька на зображенні?", "text": "Так,слідовча", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 12, "prompt": "Чи є смартфон на зображенні?", "text": "Так,ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000210789.jpg", "metadata": {}}
+{"question_id": 13, "prompt": "Чи є людина на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 14, "prompt": "Чи є в оцій картинці вівця?", "text": "Так, іє", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 15, "prompt": "Чи є велосипед на зображенні?", "text": "Так,ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 16, "prompt": "Чи є у зображенні броколі?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 17, "prompt": "Чи є автомобіль на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 18, "prompt": "Чи є на зображенні тенісна ракетка?", "text": "Так,ньо", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000429109.jpg", "metadata": {}}
+{"question_id": 19, "prompt": "Чи є людина на зображенні?", "text": "Так, ні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 20, "prompt": "Чи є в зображенні ведмежонок?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 21, "prompt": "Чи є в зображенні горщик з рослиною?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 22, "prompt": "Чи є на зображенні броколі?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 23, "prompt": "Чи є автомобіль на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 24, "prompt": "Чи є апельсин на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000211674.jpg", "metadata": {}}
+{"question_id": 25, "prompt": "У зображенні є світлофор?", "text": "Так, я бачу світлофор в зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 26, "prompt": "Чи є поїзд на зображенні?", "text": "Так, і є поїзд на зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 27, "prompt": "Чи є особа на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 28, "prompt": "Чи є серфборд на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 29, "prompt": "Чи є автомобіль на картинці?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 30, "prompt": "Чи є в зображенні планер?", "text": "так,ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000458338.jpg", "metadata": {}}
+{"question_id": 31, "prompt": "Чи є собака на зображенні?", "text": "Так, і", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 32, "prompt": "Чи є тостер на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 33, "prompt": "Чи є обідній стіл на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 34, "prompt": "Чи є у зображенні спортивний м'яч?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 35, "prompt": "Чи є ліжко на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 36, "prompt": "Чи є книга на зображенні?", "text": "Так, ціє название під котом.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000283412.jpg", "metadata": {}}
+{"question_id": 37, "prompt": "Чи є людина на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 38, "prompt": "Чи є на зображенні світлофор?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 39, "prompt": "Чи є ложка на зображенні?", "text": "Так, є ложка на зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 40, "prompt": "Чи є птах на зображенні?", "text": "Так, твій комю", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 41, "prompt": "Чи є видима виделка на зображенні?", "text": "Так, відеокамера є зображеніє.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 42, "prompt": "Чи є в зображенні вантажівка?", "text": "Так, в зображенні вантажівки.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000265719.jpg", "metadata": {}}
+{"question_id": 43, "prompt": "Чи є телевізор на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 44, "prompt": "Чи є миска на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 45, "prompt": "Чи є тостер на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 46, "prompt": "Чи є корова на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 47, "prompt": "Чи є мікрохвильовка на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 48, "prompt": "Чи є ноутбук на зображенні?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000461331.jpg", "metadata": {}}
+{"question_id": 49, "prompt": "Чи є рюкзак на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 50, "prompt": "Чи є у зображенні мобільний телефон?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 51, "prompt": "Чи є людина на зображенні?", "text": "Так, не", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 52, "prompt": "Чи є диван на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 53, "prompt": "Чи є лижі на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 54, "prompt": "Чи є тенісна ракетка на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000544456.jpg", "metadata": {}}
+{"question_id": 55, "prompt": "Чи є пташка на зображенні?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 56, "prompt": "Чи є вогнегасник на зображенні?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 57, "prompt": "Чи є людина на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 58, "prompt": "Чи є тут ліжко на зображенні?", "text": "Так, відображується ліжко на зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 59, "prompt": "Чи є човен на зображенні?", "text": "Так, є корабель", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 60, "prompt": "Чи є лавка на зображенні?", "text": "Так,ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000017708.jpg", "metadata": {}}
+{"question_id": 61, "prompt": "Чи є людина на зображенні?", "text": "Так,ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 62, "prompt": "Чи є в образі ведмідь?", "text": "Так, що є ведмідь", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 63, "prompt": "Чи є апельсин на зображенні?", "text": "Так,ні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 64, "prompt": "Чи є корова на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 65, "prompt": "Чи є пляшка на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 66, "prompt": "Чи є ліжко на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000574692.jpg", "metadata": {}}
+{"question_id": 67, "prompt": "Чи є рюкзак на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000353180.jpg", "metadata": {}}
+{"question_id": 68, "prompt": "Чи є в кадрі квітка в горщику?", "text": "Так, ні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000353180.jpg", "metadata": {}}
+{"question_id": 69, "prompt": "Чи є людина на зображенні?", "text": "Так, ні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000353180.jpg", "metadata": {}}
+{"question_id": 70, "prompt": "Чи є в кадрі бокал для вина?", "text": "Так,ні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000353180.jpg", "metadata": {}}
+{"question_id": 71, "prompt": "Чи є автобус на зображенні?", "text": "Так,ної", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000353180.jpg", "metadata": {}}
+{"question_id": 72, "prompt": "Чи є валіза на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000353180.jpg", "metadata": {}}
+{"question_id": 73, "prompt": "Чи є людина на зображенні?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000239444.jpg", "metadata": {}}
+{"question_id": 74, "prompt": "Чи є літак на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000239444.jpg", "metadata": {}}
+{"question_id": 75, "prompt": "Чи є обідній стіл на зображенні?", "text": "Так, тут є обідній стіл на зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000239444.jpg", "metadata": {}}
+{"question_id": 76, "prompt": "Чи є годинник на зображенні?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000239444.jpg", "metadata": {}}
+{"question_id": 77, "prompt": "У зображенні є стілець?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000239444.jpg", "metadata": {}}
+{"question_id": 78, "prompt": "Чи є в картинці кінь?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000239444.jpg", "metadata": {}}
+{"question_id": 79, "prompt": "Чи є людина на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000569839.jpg", "metadata": {}}
+{"question_id": 80, "prompt": "Чи є зебра на зображенні?", "text": "Так, поширено", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000569839.jpg", "metadata": {}}
+{"question_id": 81, "prompt": "Чи є сендвіч на зображенні?", "text": "Так, є сендвіч на зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000569839.jpg", "metadata": {}}
+{"question_id": 82, "prompt": "Чи є краватка на зображенні?", "text": "Так,ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000569839.jpg", "metadata": {}}
+{"question_id": 83, "prompt": "Чи є хот-дог на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000569839.jpg", "metadata": {}}
+{"question_id": 84, "prompt": "Чи є автомобіль на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000569839.jpg", "metadata": {}}
+{"question_id": 85, "prompt": "Чи є людина на зображенні?", "text": "Так, ж", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000219622.jpg", "metadata": {}}
+{"question_id": 86, "prompt": "Чи є морква на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000219622.jpg", "metadata": {}}
+{"question_id": 87, "prompt": "Чи є автомобіль на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000219622.jpg", "metadata": {}}
+{"question_id": 88, "prompt": "Чи є кімнатна рослина на зображенні?", "text": "Так, є кімнатна рослина на зображенні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000219622.jpg", "metadata": {}}
+{"question_id": 89, "prompt": "Чи є на зображенні фрісбі?", "text": "Так, не", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000219622.jpg", "metadata": {}}
+{"question_id": 90, "prompt": "Чи є стілець на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000219622.jpg", "metadata": {}}
+{"question_id": 91, "prompt": "Чи є ніж на зображенні?", "text": "Так, фігура на зображенні має ніж", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000300368.jpg", "metadata": {}}
+{"question_id": 92, "prompt": "Чи є в картинці плюшевий ведмідь?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000300368.jpg", "metadata": {}}
+{"question_id": 93, "prompt": "Чи є людина на зображенні?", "text": "Так, Adams", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000300368.jpg", "metadata": {}}
+{"question_id": 94, "prompt": "Чи є хот-дог на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000300368.jpg", "metadata": {}}
+{"question_id": 95, "prompt": "Чи є торт на зображенні?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000300368.jpg", "metadata": {}}
+{"question_id": 96, "prompt": "Чи є кравата на картинці?", "text": "Так, н", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000300368.jpg", "metadata": {}}
+{"question_id": 97, "prompt": "Чи є людина на зображенні?", "text": "Так, є людина на зображенні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000482476.jpg", "metadata": {}}
+{"question_id": 98, "prompt": "Чи є клавіатура на зображенні?", "text": "Так, но", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000482476.jpg", "metadata": {}}
+{"question_id": 99, "prompt": "Чи є пульт у зображенні?", "text": "Так, у зображенні є пульт.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000482476.jpg", "metadata": {}}
+{"question_id": 100, "prompt": "Чи є на зображенні фрісбі?", "text": "Так,", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000482476.jpg", "metadata": {}}
+{"question_id": 101, "prompt": "Чи є сумка на зображенні?", "text": "Так, має сумку.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000482476.jpg", "metadata": {}}
+{"question_id": 102, "prompt": "Чи є слон на зображенні?", "text": "Так, існує слон на зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000482476.jpg", "metadata": {}}
+{"question_id": 103, "prompt": "Чи є бейсбольна рукавичка на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000131115.jpg", "metadata": {}}
+{"question_id": 104, "prompt": "Чи є валіза на картинці?", "text": "Так,ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000131115.jpg", "metadata": {}}
+{"question_id": 105, "prompt": "Чи є особа на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000131115.jpg", "metadata": {}}
+{"question_id": 106, "prompt": "Чи є в оці картинці вівця?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000131115.jpg", "metadata": {}}
+{"question_id": 107, "prompt": "Чи є бейсбольна біта на зображенні?", "text": "Так, мій избор на зображені.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000131115.jpg", "metadata": {}}
+{"question_id": 108, "prompt": "Чи є обідній стіл на зображенні?", "text": "Так, бажалося б яо", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000131115.jpg", "metadata": {}}
+{"question_id": 109, "prompt": "Чи є раковина на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000157084.jpg", "metadata": {}}
+{"question_id": 110, "prompt": "Чи є корова на зображенні?", "text": "Так,ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000157084.jpg", "metadata": {}}
+{"question_id": 111, "prompt": "Чи є лавка на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000157084.jpg", "metadata": {}}
+{"question_id": 112, "prompt": "Чи є ножиці на зображенні?", "text": "Ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000157084.jpg", "metadata": {}}
+{"question_id": 113, "prompt": "Чи є туалет на зображенні?", "text": "Так,ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000157084.jpg", "metadata": {}}
+{"question_id": 114, "prompt": "Чи є в образі ведмідь?", "text": "Так, і", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000157084.jpg", "metadata": {}}
+{"question_id": 115, "prompt": "Чи є людина на зображенні?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000381895.jpg", "metadata": {}}
+{"question_id": 116, "prompt": "Чи є морква на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000381895.jpg", "metadata": {}}
+{"question_id": 117, "prompt": "Чи є в образі ведмедик?", "text": "Так,сти", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000381895.jpg", "metadata": {}}
+{"question_id": 118, "prompt": "Чи є птах на зображенні?", "text": "Так, птах є на зображенні в коАнтасці", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000381895.jpg", "metadata": {}}
+{"question_id": 119, "prompt": "Чи є ведмідь на зображенні?", "text": "Так, є ведмідь на зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000381895.jpg", "metadata": {}}
+{"question_id": 120, "prompt": "Чи є миша на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000381895.jpg", "metadata": {}}
+{"question_id": 121, "prompt": "Чи є в чашці на зображенні?", "text": "Так і мою відповідь означає наявність опудал в чашці.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000336872.jpg", "metadata": {}}
+{"question_id": 122, "prompt": "Чи є лижі на зображенні?", "text": "Так,ні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000336872.jpg", "metadata": {}}
+{"question_id": 123, "prompt": "Чи є ложка на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000336872.jpg", "metadata": {}}
+{"question_id": 124, "prompt": "Чи є собака на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000336872.jpg", "metadata": {}}
+{"question_id": 125, "prompt": "Чи є бутерброд на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000336872.jpg", "metadata": {}}
+{"question_id": 126, "prompt": "Чи є автомобіль на зображенні?", "text": "Ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000336872.jpg", "metadata": {}}
+{"question_id": 127, "prompt": "Чи є ліжко на зображенні?", "text": "Так, ліжко є на зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000075591.jpg", "metadata": {}}
+{"question_id": 128, "prompt": "Чи є ножиці на зображенні?", "text": "Так, є ножиці", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000075591.jpg", "metadata": {}}
+{"question_id": 129, "prompt": "Чи є кіт на зображенні?", "text": "Так,ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000075591.jpg", "metadata": {}}
+{"question_id": 130, "prompt": "Чи є годинник на зображенні?", "text": "Так, є годинник на зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000075591.jpg", "metadata": {}}
+{"question_id": 131, "prompt": "Чи є книга на зображенні?", "text": "Так,ня", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000075591.jpg", "metadata": {}}
+{"question_id": 132, "prompt": "Чи є слон на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000075591.jpg", "metadata": {}}
+{"question_id": 133, "prompt": "Чи є телевізор на зображенні?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000516916.jpg", "metadata": {}}
+{"question_id": 134, "prompt": "Чи є ліжко на зображенні?", "text": "Так, у льогу на мозаїку Планета (у нього шість кольорів)", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000516916.jpg", "metadata": {}}
+{"question_id": 135, "prompt": "Чи є миша на зображенні?", "text": "Так,ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000516916.jpg", "metadata": {}}
+{"question_id": 136, "prompt": "Чи є лавка на зображенні?", "text": "Так, існую лавка на зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000516916.jpg", "metadata": {}}
+{"question_id": 137, "prompt": "Чи є ноутбук на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000516916.jpg", "metadata": {}}
+{"question_id": 138, "prompt": "Чи є скейтборд на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000516916.jpg", "metadata": {}}
+{"question_id": 139, "prompt": "Чи є раковина на зображенні?", "text": "Так, має раковину.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000542145.jpg", "metadata": {}}
+{"question_id": 140, "prompt": "Чи є зображення зірки?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000542145.jpg", "metadata": {}}
+{"question_id": 141, "prompt": "Чи є зубна щітка на зображенні?", "text": "Так, є зубна щітка на зображенні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000542145.jpg", "metadata": {}}
+{"question_id": 142, "prompt": "Чи є особа на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000542145.jpg", "metadata": {}}
+{"question_id": 143, "prompt": "Чи є пляшка на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000542145.jpg", "metadata": {}}
+{"question_id": 144, "prompt": "Чи є парасоль на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000542145.jpg", "metadata": {}}
+{"question_id": 145, "prompt": "Чи є в на зображенні вантажівка?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000218224.jpg", "metadata": {}}
+{"question_id": 146, "prompt": "Чи є слон на зображенні?", "text": "Так, є слон на зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000218224.jpg", "metadata": {}}
+{"question_id": 147, "prompt": "Чи є літак на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000218224.jpg", "metadata": {}}
+{"question_id": 148, "prompt": "Чи є в зображенні кімнатна рослина?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000218224.jpg", "metadata": {}}
+{"question_id": 149, "prompt": "Чи є автомобіль на зображенні?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000218224.jpg", "metadata": {}}
+{"question_id": 150, "prompt": "Чи є мікрохвильовка на зображенні?", "text": "Так, тепер я розумію", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000218224.jpg", "metadata": {}}
+{"question_id": 151, "prompt": "Чи є рюкзак на зображенні?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000297078.jpg", "metadata": {}}
+{"question_id": 152, "prompt": "Чи є вображенні ведмідь?", "text": "Так", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000297078.jpg", "metadata": {}}
+{"question_id": 153, "prompt": "Чи є людина на зображенні?", "text": "Так, ні", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000297078.jpg", "metadata": {}}
+{"question_id": 154, "prompt": "Чи є кубок на зображенні?", "text": "Так, є кубок на зображенні.", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000297078.jpg", "metadata": {}}
